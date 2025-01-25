@@ -63,7 +63,7 @@ nav ul li a::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #00ffee;
+    background: #4823ff;
     position: absolute;
     left: 0;
     bottom: -6px;
